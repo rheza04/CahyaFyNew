@@ -1,0 +1,236 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Form1.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csprojAssemblyReference.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Form1.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csprojAssemblyReference.cache
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+D:\Kuliah\Pemrograman Lanjutan\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\Database1.mdf
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\Database1_log.ldf
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csprojAssemblyReference.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\Database1.mdf
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\Database1_log.ldf
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csprojAssemblyReference.cache
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\bin\Debug\Data Barang.mdb
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan1\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Login.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\bin\Debug\Data Barang.mdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\bin\Debug\Database1.mdf
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\bin\Debug\Database1_log.ldf
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csprojAssemblyReference.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Login.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan6\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\Data Barang.mdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\Database1.mdf
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\Database1_log.ldf
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csprojAssemblyReference.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Login.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+D:\#Kuliah\2018 - Semester 3\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\Data Barang.mdb
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\Database1.mdf
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\Database1_log.ldf
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csprojAssemblyReference.cache
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Login.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+C:\Users\Akiraa\Videos\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.AssemblyReference.cache
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.SuggestedBindingRedirects.cache
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+E:\Collage\RPL\New folder (2)\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.AssemblyReference.cache
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.SuggestedBindingRedirects.cache
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+E:\Collage\FIXX\Pemrograman Lanjutan8\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\Skripsi Rza\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.AssemblyReference.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\Skripsi Rza\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\Skripsi Rza\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\Skripsi Rza\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\Skripsi Rza\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\Skripsi Rza\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\Skripsi Rza\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\Skripsi Rza\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.AssemblyReference.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LoginForm.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\Data Barang.mdb
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\Database1.mdf
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\Database1_log.ldf
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\EntityFramework.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\EntityFramework.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFy\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.Up2Date
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\Data Barang.mdb
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\Database1.mdf
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\Database1_log.ldf
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe.config
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\FPTEST2.exe
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\FPTEST2.pdb
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\EntityFramework.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\EntityFramework.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.AssemblyReference.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LoginForm.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\TmbhPjln.csproj.Up2Date
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.exe
+C:\Users\Ant4rez\Videos\111 Kerjaan\New folder\CahyaFy\FPTEST2\FPTEST2\obj\Debug\FPTEST2.pdb
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\Data Barang.mdb
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\Database1.mdf
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\Database1_log.ldf
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\FPTEST2.exe.config
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\FPTEST2.exe
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\FPTEST2.pdb
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\EntityFramework.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\EntityFramework.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\TmbhPjln.csproj.AssemblyReference.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.InputBarang.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.InputSupplier.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.LoginForm.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.TmbhPembelian.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.LstPjln.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.TbhPjln.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.Properties.Resources.resources
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\TmbhPjln.csproj.GenerateResource.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\TmbhPjln.csproj.CoreCompileInputs.cache
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\TmbhPjln.csproj.Up2Date
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.exe
+C:\Users\Ant4rez\Videos\111 Kerjaan\CahyaFyNew\FPTEST2\obj\Debug\FPTEST2.pdb

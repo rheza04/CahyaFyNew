@@ -1,0 +1,5 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\LstPjln\obj\Debug\LstPjln.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\LstPjln\obj\Debug\LstPjln.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\LstPjln\obj\Debug\FPTEST2.Form1.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\LstPjln\obj\Debug\LstPjln.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjutan\FPTEST2\LstPjln\obj\Debug\LstPjln.csproj.CoreCompileInputs.cache
