@@ -239,6 +239,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\Untitled.png" />
     <None Include="Resources\shopping-basket-refresh-icon.png" />
     <None Include="Resources\shopping-basket-remove-icon.png" />
     <None Include="Resources\shopping-basket-add-icon %281%29.png" />

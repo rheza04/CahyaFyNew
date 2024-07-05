@@ -210,5 +210,15 @@ namespace FPTEST2
         {
             // Tambahkan kode untuk aksi pictureBox1
         }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
